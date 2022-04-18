@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dikobrazik
+- 👋 Hi, I’m Ilnar Khusaenov
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me ilnar.khusaenov@gmail.com
